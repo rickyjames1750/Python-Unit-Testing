@@ -19,7 +19,4 @@ def divide(x, y):
         raise ValueError('Can not divide by zero!')
     return x / y
 
-# Unit Test with Print Statement
-
-#print(add(10,5))
 
