@@ -10,7 +10,7 @@ def subtract(x, y):
 
 def multiply(x, y):
     """Multiply Function"""
-    return x * y
+    return x ** y
 
 
 def divide(x, y):
@@ -21,4 +21,4 @@ def divide(x, y):
 
 # Unit Test with Print Statement
 
-print(add(10,5))
+#print(add(10,5))
